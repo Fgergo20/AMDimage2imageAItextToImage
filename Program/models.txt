@@ -1,0 +1,3 @@
+Lykon/dreamshaper-8
+runwayml/stable-diffusion-v1-5
+hakurei/waifu-diffusion
