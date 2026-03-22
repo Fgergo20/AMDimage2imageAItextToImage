@@ -8,7 +8,7 @@ A powerful Tkinter-based GUI application that harnesses Stable Diffusion models 
 ![Screenshot](screenshotoftheprogram.png)
 
 
-[![Watch the video](Thumbnail1_1.jpg)](https://www.youtube.com/watch?v=Bj9ufbdFyMI)
+[![Watch the video](thumbnail_git.jpg)](https://www.youtube.com/watch?v=Bj9ufbdFyMI)
 ![Screenshot](blondgirlwithblueeyes.png)
 ![Screenshot](redhairlgirlinablackdress.png)
 ![Screenshot](bearstandingintheforest.png)
