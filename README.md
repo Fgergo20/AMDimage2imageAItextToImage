@@ -7,7 +7,7 @@ A powerful Tkinter-based GUI application that harnesses Stable Diffusion models 
 
 ![Screenshot](blondgirlwithblueeyes.png)
 ![Screenshot](redhairlgirlinablackdress.png)
-![Screenshot](blondgirlwithblueeyes.png)
+![Screenshot](bearstandingintheforest.png)
 ---
 
 ## ✨ Features
